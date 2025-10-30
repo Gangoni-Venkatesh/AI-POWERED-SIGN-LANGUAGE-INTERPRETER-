@@ -7,3 +7,4 @@ The architecture emphasizes inclusivity, scalability, and modularity, allowing d
 
 Common features include gesture recognition, facial expression analysis, natural language generation, and integration with cloud or local databases for improved accuracy and speed.
 
+![Image](https://github.com/user-attachments/assets/b64446e4-d68a-4b89-8773-ea61ee07450d)
